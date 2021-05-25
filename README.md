@@ -17,7 +17,29 @@
 * ddl: December 15th for fellowship, January 5th final
 * GRE: Not required
 
+<<<<<<< HEAD
 
-### intern
-hku https://www.cs.hku.hk/rintern/  ddl May 20
+=======
 
+## university of hongkong
+
+CS phd early 
+
+1st round ddl: May 1st
+
+
+# Hongkong
+## CUHK
+
+CSE phd early 
+
+1st round ddl: April 31
+
+
+
+## HKUST
+
+ECE phd early 
+
+1st round ddl: April 29
+>>>>>>> patch-1
