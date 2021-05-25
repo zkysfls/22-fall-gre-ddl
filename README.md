@@ -17,7 +17,9 @@
 * ddl: December 15th for fellowship, January 5th final
 * GRE: Not required
 
+<<<<<<< HEAD
 
+=======
 
 <<<<<<< HEAD
 
@@ -49,3 +51,4 @@ CSE phd early
 ECE phd early 
 
 1st round ddl: April 29
+>>>>>>> patch-1
