@@ -17,32 +17,20 @@
 * ddl: December 15th for fellowship, January 5th final
 * GRE: Not required
 
+### Carnegie Mellon University
 
+#### Information Networking Institute - MS
 
-## Hongkong
+* [ddl for Fall 2022](https://www.cmu.edu/ini/admissions/applynow.html): 
+  * December 15, 2021: Priority Deadline 
+  * January 15, 2022: Final Deadline 
 
-### university of hongkong
+* [GRE](https://www.cmu.edu/ini/admissions/guidetoapply.html): Not required for Spring 2022
 
-CS phd early 
+### UCSD
 
-1st round ddl: May 1st
+#### Ph.D / MASTER OF SCIENCE PROGRAMS IN COMPUTER SCIENCE AND ENGINEERING
 
-2st round ddl:  September 1st
+* [ddl](https://cse.ucsd.edu/graduate/graduate-admissions-faq#appdeadline):  September 2021 - December 2021
+* [GRE](https://cse.ucsd.edu/graduate/admissions):  Not required for Fall 2022
 
-#### intern
-
-hku https://www.cs.hku.hk/rintern/  ddl May 20
-
-
-
-### CUHK
-
-CSE phd early 
-
-1st round ddl: April 31
-
-### HKUST
-
-ECE phd early 
-
-1st round ddl: April 29
